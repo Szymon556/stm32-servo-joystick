@@ -1,0 +1,24 @@
+
+# STM32CubeIDE / CubeMX
+Debug/
+Release/
+.build/
+.settings/
+.metadata/
+
+# Compiled files
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+
+# IDE
+*.launch
+*.swp
+*.bak
+
+# OS
+.DS_Store
+Thumbs.db
